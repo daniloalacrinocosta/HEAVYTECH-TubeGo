@@ -1,0 +1,22 @@
+# Arquivos pessoais e de configuração
+config.json
+*.log
+erro-inicializacao.txt
+
+# Downloads e temporários
+*.mp4
+*.mp3
+*.m4a
+*.webm
+*.part
+*.ytdl
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# Ferramentas locais
+.vscode/
+.idea/
